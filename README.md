@@ -1,1 +1,2 @@
-Setup repository for CS205 project.
+# LDA-CS205
+Harvard CS 205 Final project
